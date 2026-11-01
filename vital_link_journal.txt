@@ -1,1 +1,7 @@
+{
+  "heart_rate": "68 bpm",
+  "temperature": "98.4 F",
+  "assessment": "Excellent health for a hobbit of his age.",
+  "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure."
+}
  
